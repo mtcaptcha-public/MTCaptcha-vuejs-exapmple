@@ -37,12 +37,6 @@ Get the Site key and update
 mt-vue-client/src/App.vue
 ```
 
-Need to update Site Private key on API to do backend Captcha Validation 
-
-```
-mt-npm-api/routes/router.js
-```
-
 Once the application is up go to 
 http://localhost:8080/login
 
