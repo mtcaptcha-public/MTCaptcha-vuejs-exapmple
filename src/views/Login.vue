@@ -10,7 +10,7 @@
     </div>
     <div class="form-group">
         <label htmlFor="password">Password</label>
-        <input type="text" placeholder="Password" class="form-control"  v-model="password" />
+        <input type="password" placeholder="Password" class="form-control"  v-model="password" />
     </div>
     <div class="form-group">
         <label htmlFor="password">Captcha</label>
