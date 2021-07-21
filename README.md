@@ -3,9 +3,6 @@ Sample Implementation of MTCaptcha for  VueJS
 
 ## MTCaptcha VueJS Application 
 
-```
-cd mt-vue-client
-```
 ## Project setup
 
 Install Node Modules via NPM
@@ -34,7 +31,7 @@ Application will be up at http://localhost:8080/
 Inorder to run the application Register your domain at MTCaptcah ( https://admin.mtcaptcha.com/)
 Get the Site key and update 
 ```
-mt-vue-client/src/App.vue
+src/App.vue
 ```
 
 Once the application is up go to 
