@@ -1,6 +1,6 @@
 <script>
 window.mtcaptchaConfig = {
-    "sitekey": "<MT Site Key>", // Get tie site key from Sites page of MTCaptcha admin site 
+    "sitekey": "<MT Sitekey>", // Get the site key from Sites page of MTCaptcha admin site 
     "widgetSize": "mini",
     "theme": "overcast",
     "render": "explicit",
